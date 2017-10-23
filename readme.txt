@@ -1,2 +1,10 @@
-This fold contains some implementation of basic image editing algorithms, ranging from image warping to image morphing.
-All these algprithms are based on Visual Studio. I achieved GUI with the help of Qt Creator.  
+Image processing algorithms:
+Complie Environment: Visual Studio + Qt Creator + OpenCV.
+Contained Algorithms:	
+					Image Warping
+					Poison Image Editing
+					Image Deformation
+					Image Segment
+					Image Synthesis
+					Image Morphing
+Author: Zhen Chen, Senior of University of Science and Technology of China (USTC)
