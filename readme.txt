@@ -1,1 +1,2 @@
-test git
+This fold contains some implementation of basic image editing algorithms, ranging from image warping to image morphing.
+All these algprithms are based on Visual Studio. I achieved GUI with the help of Qt Creator.  
